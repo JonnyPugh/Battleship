@@ -1,0 +1,4990 @@
+Specify number of human players (0, 1, or 2): Enter your name: Initializing Jon's ships...
+Input format: <column letter><row number><v (vertical) or h (horizontal)>
+Specify the location and orientation of your ship of length 5: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | . . . . . . . . . 
+ 2 | . . . . . . . . . 
+ 3 | . . . . . . . . . 
+ 4 | . . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 4: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | . . . . . . . . 
+ 2 | | . . . . . . . . 
+ 3 | | . . . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 3: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | . . . . . . . 
+ 2 | | | . . . . . . . 
+ 3 | | | . . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 3: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | | . . . . . . 
+ 2 | | | | . . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 2: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | | | . . . . . 
+ 2 | | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finished placing Jon's ships
+Enter your name: Initializing Bob's ships...
+Input format: <column letter><row number><v (vertical) or h (horizontal)>
+Specify the location and orientation of your ship of length 5: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | . . . . . . . . . 
+ 2 | . . . . . . . . . 
+ 3 | . . . . . . . . . 
+ 4 | . . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 4: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | . . . . . . . . 
+ 2 | | . . . . . . . . 
+ 3 | | . . . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 3: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | . . . . . . . 
+ 2 | | | . . . . . . . 
+ 3 | | | . . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 3: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | | . . . . . . 
+ 2 | | | | . . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location and orientation of your ship of length 2: Current state of this player's map:
+   A B C D E F G H I J 
+ 1 | | | | | . . . . . 
+ 2 | | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finished placing Bob's ships
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 . . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 | | | | | . . . . . 
+ 2 | | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 . . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 | | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 | | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A3 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 | | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A3 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A4 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 | | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A4 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A5 sunk the Aircraft carrier!
+Number of remaining ships: 4
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 | . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at A5 sunk the Aircraft carrier!
+Number of remaining ships: 4
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x | | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x . . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x | | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x . . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B3 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x | | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x . . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B3 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B4 sunk the Battleship!
+Number of remaining ships: 3
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x | . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x . . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at B4 sunk the Battleship!
+Number of remaining ships: 3
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x | | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x . . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x | | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x . . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C3 sunk the Submarine!
+Number of remaining ships: 2
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x | | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x . . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at C3 sunk the Submarine!
+Number of remaining ships: 2
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x | | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x . . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x | | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x . . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D2 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D3 sunk the Destroyer!
+Number of remaining ships: 1
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x | . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x . . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at D3 sunk the Destroyer!
+Number of remaining ships: 1
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at E1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x | . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon's turn is finished
+Bob's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x . . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at E1 hit!
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob's turn is finished
+Jon's turn
+Input format: <column letter><row number>
+State of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x . . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Specify the location of your shot: Shot at E2 sunk the Patrol boat!
+Number of remaining ships: 0
+New state of this player's enemy's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x x . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+State of this player's map:
+   A B C D E F G H I J 
+ 1 x x x x x . . . . . 
+ 2 x x x x | . . . . . 
+ 3 x x x x . . . . . . 
+ 4 x x . . . . . . . . 
+ 5 x . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+Press enter to finish...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon wins!
